@@ -16,7 +16,7 @@ env:
   REPO_URL: https://github.com/498110811/Cyber-3588-AIB
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: rk3855-aib.config
+  CONFIG_FILE: rk3588-aib.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false
